@@ -42,4 +42,4 @@ JOIN
 ON
 	a.owner_id = p.owner_id AND a.plan_id = p.id -- Joins with plan details to get type
 WHERE
-	p.is_regular_savings = 1 OR p.is_a_fund = 1 -- Filter to show only savings or investments
+	p.is_regular_savings = 1 OR p.is_a_fund = 1; -- Filter to show only savings or investments
