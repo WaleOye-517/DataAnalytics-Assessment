@@ -25,14 +25,14 @@ The database contains these tables:
 ## Submission Requirements
 1.  Create public repo: `DataAnalytics-Assessment`
 2.  File structure:
-
+```
     DataAnalytics-Assessment/
     ├── Assessment_Q1.sql
     ├── Assessment_Q2.sql
     ├── Assessment_Q3.sql
     ├── Assessment_Q4.sql
     └── README.md
-
+```
 3.  SQL files must:
     -   Contain one query per file
     -   Use proper indentation
