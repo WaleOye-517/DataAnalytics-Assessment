@@ -116,10 +116,7 @@ Throughout this project, several important data peculiarities, interpretation as
 
 ---
 
-## ERD Documentation
-![ERD Diagram](https://github.com/WaleOye-517/DataAnalytics-Assessment/blob/2d7f8b991ca2932a478bc8c41b1240dc49e2ac65/erd.jpg)
-
-### Entity Relationships
+## Entity Relationships
 -   `users_customuser` → `plans_plan` (1:m)
 -   `plans_plan` → `savings_savingsaccount` (1:m)
 -   `plans_plan` → `withdrawals_withdrawal` (1:m)
